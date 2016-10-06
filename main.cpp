@@ -2,6 +2,6 @@
 #include "view.h"
 int main(){
 	View view;
-	cout << "Hello World\n";
+	cout << "Test\n";
 	return 0;
 }
