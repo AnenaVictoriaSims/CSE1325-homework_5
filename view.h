@@ -1,6 +1,9 @@
  #ifndef __VIEW_H
- #define __VIEW_H 2016
- class View {
+ #define __VIEW_H
+
+
+ class View
+{
    public:
      View();
      void main_menu();
